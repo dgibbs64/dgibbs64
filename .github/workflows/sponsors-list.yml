@@ -35,7 +35,7 @@ jobs:
           file: 'SPONSORS.md'
           minimum: 1500
           maximum: 1999
-          marker: 'Bio Rifle'          
+          marker: 'Minigun'          
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.1
