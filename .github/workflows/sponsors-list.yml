@@ -14,7 +14,7 @@ jobs:
         uses: JamesIves/github-sponsors-readme-action@1.0.5
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          file: 'README.md'
+          file: 'SPONSORS.md'
           minimum: 500
           maximum: 999
           marker: 'Assault Rifle'
@@ -23,7 +23,7 @@ jobs:
         uses: JamesIves/github-sponsors-readme-action@1.0.5
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          file: 'README.md'
+          file: 'SPONSORS.md'
           minimum: 1000
           maximum: 1499
           marker: 'Bio Rifle'
@@ -32,7 +32,7 @@ jobs:
         uses: JamesIves/github-sponsors-readme-action@1.0.5
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          file: 'README.md'
+          file: 'SPONSORS.md'
           minimum: 1500
           maximum: 1999
           marker: 'Bio Rifle'          
