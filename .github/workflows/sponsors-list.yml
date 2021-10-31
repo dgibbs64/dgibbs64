@@ -14,8 +14,28 @@ jobs:
         uses: JamesIves/github-sponsors-readme-action@1.0.5
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          file: 'SPONSORS.md'
+          file: 'README.md'
           minimum: 500
+          maximum: 999
+          marker: 'Assault Rifle'
+
+      - name: Generate Sponsors 💖
+        uses: JamesIves/github-sponsors-readme-action@1.0.5
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          file: 'README.md'
+          minimum: 1000
+          maximum: 1499
+          marker: 'Bio Rifle'
+          
+      - name: Generate Sponsors 💖
+        uses: JamesIves/github-sponsors-readme-action@1.0.5
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          file: 'README.md'
+          minimum: 1500
+          maximum: 1999
+          marker: 'Bio Rifle'          
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.1
