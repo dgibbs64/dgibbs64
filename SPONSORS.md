@@ -1,8 +1,6 @@
 <!-- Minigun -->
 <!-- Minigun -->
 
-<!-- Bio Rifle -->
-<!-- Bio Rifle -->
+<!-- Bio Rifle --><a href="https://github.com/raggijons"><img src="https://github.com/raggijons.png" width="60px" alt="" /></a><a href="https://github.com/digitimber"><img src="https://github.com/digitimber.png" width="60px" alt="" /></a><a href="https://github.com/rconjoe"><img src="https://github.com/rconjoe.png" width="60px" alt="" /></a><!-- Bio Rifle -->
 
-<!-- Assault Rifle -->
-<!-- Assault Rifle -->
+<!-- Assault Rifle --><a href="https://github.com/dementedusa"><img src="https://github.com/dementedusa.png" width="60px" alt="" /></a><a href="https://github.com/Nixellion"><img src="https://github.com/Nixellion.png" width="60px" alt="" /></a><a href="https://github.com/EugeneGGHQ"><img src="https://github.com/EugeneGGHQ.png" width="60px" alt="" /></a><a href="https://github.com/stevenboyd78"><img src="https://github.com/stevenboyd78.png" width="60px" alt="" /></a><a href="https://github.com/medienlampe"><img src="https://github.com/medienlampe.png" width="60px" alt="" /></a><a href="https://github.com/psymin"><img src="https://github.com/psymin.png" width="60px" alt="" /></a><!-- Assault Rifle -->
