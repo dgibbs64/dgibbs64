@@ -31,13 +31,14 @@ jobs:
           marker: 'Bio Rifle'
           
       - name: Generate Sponsors 💖
-        uses: JamesIves/github-sponsors-readme-action@1.0.5
+        uses: JamesIves/github-sponsors-readme-action@1.0.5+
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           file: 'SPONSORS.html'
           minimum: 1500
           maximum: 1999
-          marker: 'Minigun'          
+          marker: 'Minigun'
+          template: '* [{{{ name }}}]({{{ url }}}) - {{{ login }}}'
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.1
