@@ -18,26 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           file: 'SPONSORS.html'
           minimum: 500
-          maximum: 999
-          marker: 'Assault Rifle'
-
-      - name: Generate Sponsors 💖
-        uses: JamesIves/github-sponsors-readme-action@1.0.5
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          file: 'SPONSORS.html'
-          minimum: 1000
-          maximum: 1499
-          marker: 'Bio Rifle'
-          
-      - name: Generate Sponsors 💖
-        uses: JamesIves/github-sponsors-readme-action@1.0.5
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          file: 'SPONSORS.html'
-          minimum: 1500
-          maximum: 1999
-          marker: 'Minigun'
+          marker: 'Sponsors'
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.1
