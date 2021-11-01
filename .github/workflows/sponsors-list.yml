@@ -31,7 +31,7 @@ jobs:
           marker: 'Bio Rifle'
           
       - name: Generate Sponsors 💖
-        uses: JamesIves/github-sponsors-readme-action@1.0.5+
+        uses: JamesIves/github-sponsors-readme-action@1.0.5
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           file: 'SPONSORS.html'
