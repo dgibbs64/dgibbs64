@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Glory%20to%20your%20House!&height=100&section=header"/>
+
+<img src="https://media.tenor.com/LvMSWNnHItYAAAAC/lick-lips-lick.gif">
+</p>
 <h3>Operating Systems</h3>
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
