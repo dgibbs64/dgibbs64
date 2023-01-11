@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           file: 'SPONSORS.html'
-          minimum: 500
+          minimum: 400
           marker: 'Sponsors'
 
       - name: Deploy to GitHub Pages 🚀
