@@ -88,7 +88,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dgibbs64&theme=nightowl&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dgibbs64&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dgibbs64&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dgibbs64&limit=5&theme=nightowl&hide_border=true&combine_all_yearly_contributions=true)
