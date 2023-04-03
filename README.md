@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Glory%20to%20You!&height=100&section=header"/>
-
+</p>
+<p align="center">
 <img src="https://media.tenor.com/LvMSWNnHItYAAAAC/lick-lips-lick.gif">
 </p>
 <h3>Operating Systems</h3>
@@ -81,3 +82,13 @@
 <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=Windows%2011&logoColor=white"> 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"> 
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dgibbs64&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dgibbs64&theme=nightowl&hide_border=true)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dgibbs64&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dgibbs64&limit=5&theme=nightowl&hide_border=true&combine_all_yearly_contributions=true)
