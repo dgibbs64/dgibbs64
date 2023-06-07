@@ -83,6 +83,9 @@
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"> 
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dgibbs64&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dgibbs64&theme=nightowl&hide_border=true)<br/>
