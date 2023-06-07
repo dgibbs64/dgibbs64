@@ -86,26 +86,16 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2027%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.3%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 418.2 kB Used in GitHub's Storage 
- > 
-> 🏆 709 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 49 Public Repositories 
- > 
-> 🔑 22 Private Repositories 
- > 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   9086 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.16 % 
 Tuesday                  7164 commits        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.59 % 
-Wednesday                10610 commits       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.20 % 
+Wednesday                10611 commits       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.20 % 
 Thursday                 7153 commits        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.57 % 
 Friday                   10982 commits       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.70 % 
 Saturday                 13761 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.42 % 
@@ -151,8 +141,12 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
+**Timeline**
 
- Last Updated on 07/06/2023 20:31:39 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/dgibbs64/dgibbs64/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/06/2023 20:45:38 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
