@@ -24,10 +24,10 @@ jobs:
         uses: JamesIves/github-sponsors-readme-action@v1.2.2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          file: 'SPONSORSCLI.txt'
+          file: 'SPONSORS.csv'
           minimum: 400
           marker: 'Sponsors'
-          template: '* {{{ name }}} - {{{ websiteUrl }}}'
+          template: '{{{ login }}},{{{ name }}},{{{ url }}},{{{ websiteUrl }}}\n'
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4.4.2
