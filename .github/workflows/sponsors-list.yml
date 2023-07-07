@@ -27,7 +27,7 @@ jobs:
           file: 'SPONSORS.csv'
           minimum: 400
           marker: 'Sponsors'
-          template: '{{{ login }}},{{{ name }}},{{{ url }}},{{{ websiteUrl }}}\n'
+          template: '{{{ login }}},{{{ name }}},{{{ url }}},{{{ websiteUrl }}}  '
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4.4.2
