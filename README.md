@@ -142,13 +142,3 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 26/06/2023 08:00:30 UTC
 <!--END_SECTION:waka-->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dgibbs64&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dgibbs64&theme=nightowl&hide_border=true)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dgibbs64&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dgibbs64&limit=5&theme=nightowl&hide_border=true&combine_all_yearly_contributions=true)
