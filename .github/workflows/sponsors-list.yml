@@ -20,15 +20,6 @@ jobs:
           minimum: 400
           marker: 'Sponsors'
 
-      - name: Generate Sponsors CLI 💖
-        uses: JamesIves/github-sponsors-readme-action@v1.3.0
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          file: 'SPONSORS.csv'
-          minimum: 400
-          marker: 'Sponsors'
-          template: '{{{ login }}},{{{ name }}},{{{ url }}},{{{ websiteUrl }}},'
-
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:
