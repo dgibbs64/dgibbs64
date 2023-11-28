@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Sponsors 💖
-        uses: JamesIves/github-sponsors-readme-action@v1.2.2
+        uses: JamesIves/github-sponsors-readme-action@v1.3.0
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           file: 'SPONSORS.html'
@@ -21,7 +21,7 @@ jobs:
           marker: 'Sponsors'
 
       - name: Generate Sponsors CLI 💖
-        uses: JamesIves/github-sponsors-readme-action@v1.2.2
+        uses: JamesIves/github-sponsors-readme-action@v1.3.0
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           file: 'SPONSORS.csv'
