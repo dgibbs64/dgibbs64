@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Sponsors 💖
-        uses: JamesIves/github-sponsors-readme-action@v1.5.1
+        uses: JamesIves/github-sponsors-readme-action@v1.5.6
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           file: 'SPONSORS.html'
